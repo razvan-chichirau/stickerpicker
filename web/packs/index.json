@@ -1,0 +1,13 @@
+{
+  "packs": [
+    "Buddy.json",
+    "CutiePies___.json",
+    "CutiePies...json",
+    "Lovelies.json",
+    "Lulu.json",
+    "SweetPies.json",
+    "YummySweet.json",
+    "Ralu.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
